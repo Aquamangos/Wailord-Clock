@@ -23,7 +23,8 @@ The Octillery Tentacules is where the usb c and jumper wires will go through. (h
 <img width="747" height="667" alt="Fusion360_GjWLUR7KGm" src="https://github.com/user-attachments/assets/7db528e7-51a6-4056-a42a-797356faec6c" />
 
 # PCB render
-<img width="1321" height="798" alt="kicad_j7mqTggl6W" src="https://github.com/user-attachments/assets/36956195-8228-4f95-a8a1-bc6f7954f4e9" />
+<img width="973" height="527" alt="kicad_axZe4AHeOI" src="https://github.com/user-attachments/assets/a149d2b0-e733-4213-94d4-281897311e52" />
+
 
 # PCB (lwk missed opportunity to put octillery in there as silkscreen)
 <img width="946" height="543" alt="kicad_hycdxnCpwj" src="https://github.com/user-attachments/assets/a59811c4-c8c0-4535-b556-cf2cc2cfef7e" />
