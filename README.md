@@ -17,6 +17,23 @@ Featuring a TFT screen, 4 keys and 1 buzzer (alarm)
 Full model was first made in Blender, then ported into Fusion 360 to convert to parametric mesh.
 The Octillery Tentacules is where the usb c and jumper wires will go through. (hollow)
 
+# Blender & CAD Viewport 
+
+<img width="833" height="751" alt="blender_MMh78vqhRh" src="https://github.com/user-attachments/assets/9f3893a4-73b1-4d60-accd-b8db54e231bf" />
+<img width="747" height="667" alt="Fusion360_GjWLUR7KGm" src="https://github.com/user-attachments/assets/7db528e7-51a6-4056-a42a-797356faec6c" />
+
+# PCB render
+<img width="1321" height="798" alt="kicad_j7mqTggl6W" src="https://github.com/user-attachments/assets/36956195-8228-4f95-a8a1-bc6f7954f4e9" />
+
+# PCB (lwk missed opportunity to put octillery in there as silkscreen)
+<img width="946" height="543" alt="kicad_hycdxnCpwj" src="https://github.com/user-attachments/assets/a59811c4-c8c0-4535-b556-cf2cc2cfef7e" />
+
+# PCB schematic 
+<img width="858" height="791" alt="kicad_JlHQRykLpZ" src="https://github.com/user-attachments/assets/fed4c7ed-e98a-4e84-a44b-ae7125cd6335" />
+
+
+
+
 # Bill of Materials
 
 + 1x PCB from JCLPCB
